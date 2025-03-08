@@ -4,23 +4,28 @@ Bu repo, C# ile yazılmış çeşitli algoritma ve şekil çizme uygulamaların�
 
 ## Projeler
 
-### 1. Üçgen Çizme
+### 1. Fibonacci Ortalama Hesaplama
+
+Kullanıcıdan alınan derinliğe (N) göre Fibonacci serisindeki ilk N sayının ortalamasını hesaplayan bir uygulamadır.  
+**Kullanım:** Kullanıcı derinliği girer, program Fibonacci serisini oluşturur ve ortalamasını ekrana yazdırır.
+
+### 2. Üçgen Çizme
 
 Kullanıcıdan alınan boyuta göre ekrana üçgen çizen bir konsol uygulamasıdır.  
 **Kullanım:** Kullanıcı üçgenin yüksekliğini girer ve program ekrana üçgen çizer.
 
-### 2. Daire Çizme
+### 3. Daire Çizme
 
 Kullanıcıdan alınan yarıçapa göre ASCII karakterleriyle bir daire çizen bir konsol uygulamasıdır.  
 **Kullanım:** Kullanıcı yarıçapı girer ve program ekrana daireyi çizer.
 
-### 3. Belirtilen Karakteri Silme
+### 4. Belirtilen Karakteri Silme
 
 Kullanıcıdan bir kelime ve bir index numarası alarak, kelimenin belirtilen index'indeki karakteri silen uygulamadır.  
 **Örnek Giriş:** `Algoritma,3`  
 **Çıktı:** `Algritma`
 
-### 4. Karakterleri Yer Değiştirme
+### 5. Karakterleri Yer Değiştirme
 
 Kullanıcıdan alınan kelimenin her karakterini bir öncekiyle yer değiştiren bir uygulamadır.  
 **Örnek Giriş:** `Merhaba`  
