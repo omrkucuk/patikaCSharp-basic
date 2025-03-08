@@ -36,5 +36,6 @@ Kullanıcıdan alınan kelimenin her karakterini bir öncekiyle yer değiştiren
 Projeyi çalıştırmak için C# ortamında derleyip çalıştırabilirsiniz:
 
 ```sh
+cd {proje adı}
 dotnet run
 ```
